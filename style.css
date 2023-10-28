@@ -1,0 +1,22 @@
+ *{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+ }
+ .navbar{
+    float: right;
+    margin: 10px 5em;
+    font-size: 22px;
+ }
+ .navbar ul li{
+     margin: 0 25px;
+ }
+ .navbar ul li a{
+     color: #000;
+ }
+ header{
+    display: flex;
+    position: absolute;
+    margin: 2em 5em;
+ }
